@@ -1,5 +1,7 @@
 # Hands-on-Reinforcement-Learning
 Hands on Reinforcement Learning(用Python实现强化学习算法)  
+Install Gym: [Windows下OpenAI gym环境的使用](https://www.cnblogs.com/kailugaji/p/15761082.html)  
+PTAN: https://github.com/Shmuma/ptan  
 From:  
 [1] https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition  
 [2] https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python  
