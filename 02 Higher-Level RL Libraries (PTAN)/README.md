@@ -1,4 +1,5 @@
 Introduction of a higher-level RL library (PTAN) and Implementation of DQN with Python  
+Note: The network architecture of my DQN is not a standard structure with three convolution layers and two full connection layers, but is simplified to two full connection layers, the implementation of the standard DQN can be found in https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition/tree/master/Chapter08  
 PTAN: https://github.com/Shmuma/ptan  
 Install PTAN  
 ```
